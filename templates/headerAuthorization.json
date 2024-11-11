@@ -1,0 +1,9 @@
+{
+    "name": "Authorization",
+    "in": "header",
+    "required": true,
+    "explode": true,
+    "schema": {
+      "type": "string"
+    }
+}
